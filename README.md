@@ -8,8 +8,7 @@ This app allows xiaomi wristwatch user to install the theme to display on the wa
 
 It consists of four sections, digital, sports, modern, and simple, and each section contains features specific to the selected section and can be downloaded to the watch.
 
-
-<img src="https://user-images.githubusercontent.com/102732045/202941157-05806f71-1a95-4304-a66e-2a2a662ad856.gif"  width="300"/> 
+<img src="https://user-images.githubusercontent.com/102732045/202947527-572b2903-f69e-45c0-bfad-7b0fac777d37.gif"  width="300"/> 
 
 this app target xiaomi Mi Band 6
 
